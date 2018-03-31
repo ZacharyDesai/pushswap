@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2018
 ** my_sorter_rotation.c
 ** File description:
-** alexandre.frydman@epitech.eu
+**
 */
 
 #include "pushswap.h"
