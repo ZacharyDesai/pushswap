@@ -2,7 +2,7 @@
 ## EPITECH PROJECT, 2017
 ## Makefile
 ## File description:
-## alexandre.frydman@epitech.eu
+## 
 ##
 
 SRC	=	src/main.c \
